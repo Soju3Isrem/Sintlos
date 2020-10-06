@@ -5,12 +5,12 @@
 int totalDevices = 3;
 
 
-#define FIREBASE_HOST "sintios-2b9d4.firebaseio.com"
+#define FIREBASE_HOST "********"
                      
 #define FIREBASE_AUTH "qabBfsVtfHU8NEbgDstlC3mfEY7OEHYP2pq13494"
 
-#define WIFI_SSID "TURBONETT_3289A1"
-#define WIFI_PASSWORD "rije1347"
+#define WIFI_SSID "******"
+#define WIFI_PASSWORD "******"
 
 #include <FirebaseArduino.h>
 #include <ESP8266WiFi.h>
